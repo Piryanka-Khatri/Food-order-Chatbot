@@ -1,0 +1,119 @@
+[
+  {
+    "id": "abfd3fe8-b97d-4ffb-9531-359b687a506a",
+    "data": [
+      {
+        "text": "What time does the store open and close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c62eaf01-e4f9-42a7-8e6a-589ab8fafa49",
+    "data": [
+      {
+        "text": "Operating hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb04ae36-f6ed-4440-bad4-12f1a132a2a7",
+    "data": [
+      {
+        "text": "Business hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f6ad3e5-19d2-4eec-90d0-d410597c41df",
+    "data": [
+      {
+        "text": "Store closing hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "298a8bb9-29ee-4fc2-9877-bf7ebcdfab56",
+    "data": [
+      {
+        "text": "Store opening hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93141d63-3b28-409c-96c2-5fac8a2a3a8a",
+    "data": [
+      {
+        "text": "What time do you open and close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d84af540-cb30-4386-9d6a-25cf8b4d69fb",
+    "data": [
+      {
+        "text": "Can you tell me the store hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97e888e6-2e61-4c2c-8919-65ef5a4fd8b0",
+    "data": [
+      {
+        "text": "When is the store open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70a3e119-1f3e-49f3-8617-51df1e0fef89",
+    "data": [
+      {
+        "text": "What are your store hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

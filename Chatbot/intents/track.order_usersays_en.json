@@ -1,0 +1,93 @@
+[
+  {
+    "id": "af2b1f60-71c3-41f3-a601-2577c022f228",
+    "data": [
+      {
+        "text": "Review the status of an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99862767-3e8d-4438-b069-006e475d919c",
+    "data": [
+      {
+        "text": "Track an order in progress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2da9562-0f17-46d0-b63a-6c881ab3d198",
+    "data": [
+      {
+        "text": "Monitor an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69c89e79-6e6f-4f46-be53-785641faf536",
+    "data": [
+      {
+        "text": "Follow up on an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f4efed5-11c5-486b-b0f5-a4e54658797b",
+    "data": [
+      {
+        "text": "Track existing order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f946b51-7508-45b4-b507-92454b94b061",
+    "data": [
+      {
+        "text": "Track order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae6d5215-dc6e-49d3-b890-3c2deb2ed09c",
+    "data": [
+      {
+        "text": "Check the status of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e4e3d6b5-31d8-4814-b507-4bc925cd80fe",
+    "data": [
+      {
+        "text": "Fresh order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbb3e404-e43b-4939-9e80-8e854603f3f5",
+    "data": [
+      {
+        "text": "Submit a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e92cd92-388c-47eb-bb21-350ab6e06a45",
+    "data": [
+      {
+        "text": "Make a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4bc59af-ffa7-4277-9d2d-dbaafd520033",
+    "data": [
+      {
+        "text": "Start a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01b212de-5727-43c9-9721-ad7605b3dcdb",
+    "data": [
+      {
+        "text": "Initiate a new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "babbe32d-9caf-47ee-befe-6808f58fa045",
+    "data": [
+      {
+        "text": "Place new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bc66f56-0c24-48c8-b68d-5d0217970f54",
+    "data": [
+      {
+        "text": "New order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

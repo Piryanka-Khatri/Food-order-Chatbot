@@ -1,0 +1,45 @@
+{
+  "id": "23e7d6cf-b7bd-4e3a-b484-93d46c099818",
+  "name": "track.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-tracking",
+          "lifespan": 7
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is the order id?",
+            "Sure. What\u0027s your order id?",
+            "Can you provide the order id?",
+            "Could you tell me the order id?",
+            "Could you tell me the order id?",
+            "Definitely. What is your order id?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

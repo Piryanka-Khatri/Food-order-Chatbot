@@ -1,0 +1,41 @@
+{
+  "id": "0e80a5c2-92b3-4c05-bfe8-e868faaf025f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello, How can I help you? You can say \"\"New Order\"\" or \"\"Track Order\" or \"\"Store Hour\"\"",
+            "Good day!  What can I do for you today? You can say \"\"New Order\"\" or \"\"Track Order\" \n or \"Store Hour\"\"",
+            "Greetings! How can I assist? You can say \"\"New Order\"\" or \"\"Track Order\" or \"Store Hour\"\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
