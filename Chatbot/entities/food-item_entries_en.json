@@ -1,0 +1,103 @@
+[
+  {
+    "value": "Pav Bhaji",
+    "synonyms": [
+      "Pav Bhaji",
+      "Bhaji Pav",
+      "Mumbai pav bhaji"
+    ]
+  },
+  {
+    "value": "Chole Bhature",
+    "synonyms": [
+      "Chole Bhature",
+      "chola puri",
+      "chhole puri",
+      "bhature chole",
+      "chhole bhature",
+      "chhola bhature",
+      "chola bhature",
+      "bhaturee chole"
+    ]
+  },
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Pizza",
+      "Chesse Pizza",
+      "pizzas",
+      "cheze pizza",
+      "chezze pizza",
+      "cheese pizza",
+      "cheeze pizzas"
+    ]
+  },
+  {
+    "value": "Mango Lassi",
+    "synonyms": [
+      "Mango Lassi",
+      "aam lassi",
+      "mango yougurt drink",
+      "mango drink",
+      "mango lasi",
+      "aam drink",
+      "lassi"
+    ]
+  },
+  {
+    "value": "Vegetable Biryani",
+    "synonyms": [
+      "Vegetable Biryani",
+      "Biryani",
+      "vegetable rice",
+      "vegee rice"
+    ]
+  },
+  {
+    "value": "vada pav",
+    "synonyms": [
+      "vada pav",
+      "pav vada",
+      "wada pav",
+      "pav waada",
+      "batata vada pav",
+      "batata wada pav"
+    ]
+  },
+  {
+    "value": "Masala Dosa",
+    "synonyms": [
+      "Masala Dosa",
+      "Spiced potato dosa",
+      "Stuffed dosa",
+      "Potato-filled crepe",
+      "South Indian pancake",
+      "Aloo masala dosa",
+      "Dosa",
+      "Masala Dose"
+    ]
+  },
+  {
+    "value": "Samosa",
+    "synonyms": [
+      "Samosa",
+      "Singhara",
+      "aloo samosa",
+      "Fried dumpling",
+      "Indian empanada",
+      "Stuffed pastry",
+      "Savory pastry"
+    ]
+  },
+  {
+    "value": "Rava Dosa",
+    "synonyms": [
+      "Rava Dosa",
+      "Semolina dosa",
+      "Crispy rava crepe",
+      "Instant dosa",
+      "Suji dosa",
+      "Rava pancake"
+    ]
+  }
+]
